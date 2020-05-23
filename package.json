@@ -8,6 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "axios": "^0.19.2",
+    "material-design-icons": "^3.0.1",
     "vue": "^2.6.11",
     "vue-class-component": "^7.2.3",
     "vue-property-decorator": "^8.4.1",
@@ -15,6 +17,7 @@
     "vuetify": "^2.2.11"
   },
   "devDependencies": {
+    "@mdi/font": "^5.2.45",
     "@typescript-eslint/eslint-plugin": "^2.26.0",
     "@typescript-eslint/parser": "^2.26.0",
     "@vue/cli-plugin-eslint": "~4.3.0",
